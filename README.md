@@ -36,7 +36,7 @@ This project is part of Data Scientist Nanodegree Program from Udacity. The goal
 <a name="FileDesciption"></a>
 # File Desciption
 
-There are two dataset files provided by [Figure Fight](https://www.figure-eight.com/dataset/combined-disaster-response-data/) are in the data folder.
+There two dataset files provided by [Figure Fight](https://www.figure-eight.com/dataset/combined-disaster-response-data/) are in the data folder.
 
     disaster_categories.csv: Categories of the messages
     disaster_messages.csv: Multilingual disaster response messages
