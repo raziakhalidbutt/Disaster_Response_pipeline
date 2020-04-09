@@ -38,8 +38,8 @@ This project is part of Data Scientist Nanodegree Profram from Udacity. The goal
 
 There are two dataset files provided by Figure Fight in the data folder.
 
-    disaster_categories.csv: Categories of the messages
-    disaster_messages.csv: Multilingual disaster response messages
+    **disaster_categories.csv:** Categories of the messages
+    **disaster_messages.csv:** Multilingual disaster response messages
 
 The project is done in three steps that includes:
 
