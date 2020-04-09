@@ -31,7 +31,7 @@ You need Anaconda distribution of python 3.* version. The additional libraries r
 
 <a name="Motivation"></a>
 # Motivation
-This project is part of Data Scientist Nanodegree Profram from Udacity. The goal is to run ETL (Extract Transform Load) pipline and ML (Machine learning) pipeline to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages.
+This project is part of Data Scientist Nanodegree Program from Udacity. The goal is to run ETL (Extract Transform Load) pipline and ML (Machine learning) pipeline to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages.
 
 <a name="FileDesciption"></a>
 # File Desciption
@@ -45,7 +45,7 @@ The project is done in three steps that includes:
 
 1. ETL Pipeline
 
-process_data.py: The process include for data cleaning pipeline.
+**process_data.py:** The process include for data cleaning pipeline.
 
     Loads the messages and categories datasets
     Merges the two datasets
@@ -54,7 +54,7 @@ process_data.py: The process include for data cleaning pipeline.
 
 2. ML Pipeline
 
-train_classifier.py: The process for a machine learning pipeline includes:
+**train_classifier.py:** The process for a machine learning pipeline includes:
 
     Loads data from the SQLite database
     Splits the dataset into training and test sets
