@@ -36,10 +36,10 @@ This project is part of Data Scientist Nanodegree Profram from Udacity. The goal
 <a name="FileDesciption"></a>
 # File Desciption
 
-There are two dataset files provided by Figure Fight in the data folder.
+There are two dataset files provided by [Figure Fight](https://www.figure-eight.com/dataset/combined-disaster-response-data/) are in the data folder.
 
-    **disaster_categories.csv:** Categories of the messages
-    **disaster_messages.csv:** Multilingual disaster response messages
+    disaster_categories.csv: Categories of the messages
+    disaster_messages.csv: Multilingual disaster response messages
 
 The project is done in three steps that includes:
 
@@ -70,3 +70,4 @@ train_classifier.py: The process for a machine learning pipeline includes:
 
 <a name="Acknowledgements"></a>
 # Acknowledgements
+This dataset is provided by Figure Fight. 
