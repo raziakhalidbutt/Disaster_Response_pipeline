@@ -70,7 +70,7 @@ The project is done in three steps that includes:
 <a name="Results"></a>
 # Results
 Following are the web app screenshots:
-
+![images](https://github.com/raziakhalidbutt/Disaster_Response_pipeline/blob/master/images/fig1.PNG)
 
 
 <a name="Acknowledgements"></a>
