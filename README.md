@@ -43,7 +43,7 @@ There two dataset files provided by [Figure Fight](https://www.figure-eight.com/
 
 The project is done in three steps that includes:
 
-1. ETL Pipeline
+1. ETL Pipeline: In data folder
 
 **process_data.py:** The process include for data cleaning pipeline.
 
@@ -52,7 +52,7 @@ The project is done in three steps that includes:
     Cleans the data
     Stores it in a SQLite database
 
-2. ML Pipeline
+2. ML Pipeline: In models foder
 
 **train_classifier.py:** The process for a machine learning pipeline includes:
 
@@ -63,10 +63,15 @@ The project is done in three steps that includes:
     Outputs results on the test set
     Exports the final model as a pickle file
 
-3. Flask Web App
+3. Flask Web App: In app folder
+
+**runner.py:** To run web app
     
 <a name="Results"></a>
 # Results
+Following are the web app screenshots:
+
+
 
 <a name="Acknowledgements"></a>
 # Acknowledgements
