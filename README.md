@@ -70,7 +70,18 @@ The project is done in three steps that includes:
 <a name="Results"></a>
 # Results
 Following are the web app screenshots:
+
+1. Enter messages in the text box and click classify that highlights the categories message belong to.
+
 ![images](https://github.com/raziakhalidbutt/Disaster_Response_pipeline/blob/master/images/fig1.PNG)
+
+![images](https://github.com/raziakhalidbutt/Disaster_Response_pipeline/blob/master/images/fig4.PNG)
+
+2. The graphs of training dataset provided by Figure Fight.
+
+![images](https://github.com/raziakhalidbutt/Disaster_Response_pipeline/blob/master/images/fig2.PNG)
+
+![images](https://github.com/raziakhalidbutt/Disaster_Response_pipeline/blob/master/images/fig3.PNG)
 
 
 <a name="Acknowledgements"></a>
