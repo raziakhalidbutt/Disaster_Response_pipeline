@@ -76,15 +76,13 @@ def build_model():
 
 
 def evaluate_model(model, X_test, Y_test, category_names):
-    model.fit(X_train, y_train)
     y_pred = model.predict(X_test)
     
-    print(classification_report(y_test.iloc[:, 1:].values, np.array([x[1:] for x in y_pred]), target_names = category_names))
-    
-    for i in range(len(col)):
+        
+    for i in range(len(category_names)):
         print('Category: {} '.format(category_names[i]))
-        print(classification_report(y_test.iloc[:, i].values, y_pred[:, i]))
-        print('Accuracy {}\n\n'.format(accuracy_score(y_test.iloc[:, i].values, y_pred[:, i])))
+        print(classification_report(Y_test.iloc[:, i].values, y_pred[:, i]))
+        print('Accuracy {}\n\n'.format(accuracy_score(Y_test.iloc[:, i].values, y_pred[:, i])))
 
 def save_model(model, model_filepath):
     
