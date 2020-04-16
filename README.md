@@ -4,7 +4,7 @@
 1. [Installation](#Installation)
 2. [Instructions](#Instructions)
 3. [Motivation](#Motivation)
-4. [File Description](#FileDesciption)
+4. [File Description](#FileDescription)
 5. [Results](#Results)
 6. [Acknowledgements](#Acknowledgements)
 
@@ -33,8 +33,8 @@ You need Anaconda distribution of python 3.* version. The additional libraries r
 # Motivation
 This project is part of Data Scientist Nanodegree Program from Udacity. The goal is to run ETL (Extract Transform Load) pipline and ML (Machine learning) pipeline to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages.
 
-<a name="FileDesciption"></a>
-# File Desciption
+<a name="FileDescription"></a>
+# File Description
 
 There two dataset files provided by [Figure Fight](https://www.figure-eight.com/dataset/combined-disaster-response-data/) are in the data folder.
 
